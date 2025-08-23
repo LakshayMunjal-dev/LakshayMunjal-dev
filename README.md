@@ -81,9 +81,14 @@ I love building scalable applications, optimizing data pipelines, and exploring 
 
 ## 📊 GitHub Stats
 <p align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=lakshaymunjal&show_icons=true&theme=tokyonight" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaymunjal&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshaymunjal&show_icons=true&count_private=true&theme=tokyonight&hide_title=false&hide_border=false" alt="Lakshay Munjal's GitHub Stats" />
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshaymunjal&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshaymunjal&theme=react-dark&area=true&hide_border=false" alt="GitHub Activity Graph" />
 </p>
+
 
 ---
 
