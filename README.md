@@ -37,7 +37,7 @@ Data Modeling · Data Validation · Data Quality · Data Transformation · Recon
 ## 💼 Experience
 
 ### Metropolitan Transportation Authority — Capital Programs
-**Business Analyst / Technical Analyst — Data Engineer** · Jan 2026 – Present
+**Technical Analyst — Data Engineer** · Jan 2026 – Present
 
 - Develop and maintain **Power BI reporting** using SQL, Oracle Hyperion, and Azure Data Lake to support capital-program budgeting, project performance, and financial analysis.
 - Build and enhance data pipelines integrating **Oracle ERP/Hyperion and Azure Data Lake**, improving data reliability and reducing manual reporting effort.
