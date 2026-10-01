@@ -1,102 +1,146 @@
-# 🚀 Welcome to My GitHub Profile!
+# Hi, I'm Lakshay Munjal 👋
 
-Hi there! I'm **Lakshay Munjal**, a passionate developer, AI enthusiast, and cloud practitioner.  
-I love building scalable applications, optimizing data pipelines, and exploring LLM architectures.  
+**Data Engineer | Data Analyst | Business Intelligence**
 
-📍 New York, NY | ✉️ lakshaymunjaldev@gmail.com | [LinkedIn](https://www.linkedin.com/in/lakshaymunjaldev)
+I build data pipelines, analytics solutions, and business intelligence products using **Python, SQL, Power BI, Tableau, and cloud data platforms**.
 
----
-
-## 👨‍💻 About Me
-- 🎓 MS in Computer Science @ NJIT (May 2025)  
-- 💼 Data Analyst at MTA (2025) — building ETL, CI/CD pipelines, and real-time monitoring  
-- 🌱 Experienced in full-stack development, cloud solutions, and applied AI  
-- 🔍 Interested in data engineering, AI/ML systems, and DevOps scalability  
+Currently working with **MTA Capital Programs**, where I work across financial data, reporting modernization, data integration, and analytics to support capital-program operations.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Stack
 
-### 🔹 Programming & Core Concepts
-<p align="left">
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
- <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
- <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
- <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+**Programming & Querying**  
+Python · SQL · PostgreSQL · Pandas · Polars
 
-### ☁️ Cloud & DevOps
-<p align="left">
- <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
- <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
- <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
- <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
- <img src="https://img.shields.io/badge/CI/CD-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
+**Analytics & BI**  
+Power BI · Tableau · Excel · Power Query · DAX · KPI Reporting · Dashboard Development
 
-### 🌐 Web & Mobile
-<p align="left">
- <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
- <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
- <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
+**Data Engineering & Platforms**  
+ETL/ELT · Azure Data Lake · Snowflake · Oracle Hyperion · Oracle ERP · Apache Airflow · REST APIs
 
-### 🤖 AI & Data
-<p align="left">
- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
- <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
- <img src="https://img.shields.io/badge/ML%20Pipelines-005571?style=for-the-badge&logo=mlflow&logoColor=white" />
- <img src="https://img.shields.io/badge/ETL-008080?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-</p>
+**Cloud & Development**  
+Microsoft Azure · AWS · Git · GitHub · Docker · Azure DevOps · GitHub Actions · CI/CD
+
+**Automation & Business Tools**  
+Power Apps · Power Automate · SharePoint · Salesforce
+
+**Data Practices**  
+Data Modeling · Data Validation · Data Quality · Data Transformation · Reconciliation · Variance Analysis · Reporting Automation · Requirements Gathering · Agile/Scrum
+
+---
+
+## 💼 Experience
+
+### Metropolitan Transportation Authority — Capital Programs
+**Business Analyst / Technical Analyst — Data Engineer** · Jan 2026 – Present
+
+- Develop and maintain **Power BI reporting** using SQL, Oracle Hyperion, and Azure Data Lake to support capital-program budgeting, project performance, and financial analysis.
+- Build and enhance data pipelines integrating **Oracle ERP/Hyperion and Azure Data Lake**, improving data reliability and reducing manual reporting effort.
+- Perform **SQL and Excel-based variance, trend, and data-quality analysis** across capital-program datasets to identify discrepancies and support accurate reporting.
+- Develop **Power BI and Tableau dashboards** with SQL queries and stored procedures to provide KPI visibility for business stakeholders.
+- Automate recurring tracking and reporting workflows using **Power Apps, Power Automate, and SharePoint**.
+- Maintain automated data workflows using **Apache Airflow, GitHub, and Azure DevOps**, supporting pipeline reliability, data quality, and reporting consistency.
+
+### EV Buddy Inc.
+**Software Engineer** · Sep 2025 – Jan 2026
+
+- Built an **iOS application using SwiftUI and REST APIs on Azure**, supporting EV charger discovery, booking, and payment workflows.
+- Developed backend APIs, data models, caching, logging, and analytics tracking to support application reliability and scalable workflows.
+- Implemented recommendation and anomaly-detection features to improve user experience and system performance.
+
+### Metropolitan Transportation Authority — NYCT Subways
+**Data Engineer Intern** · Jan 2025 – Sep 2025
+
+- Developed **Python and SQL ETL pipelines** integrating Azure Data Lake, Salesforce, Hexagon EAM, and operational datasets, reducing manual reporting by approximately **15 hours per week**.
+- Built **Tableau dashboards for 300+ subway stations** covering delays, asset performance, budget, and goal tracking.
+- Implemented data validation and quality checks across operational datasets and reporting outputs to improve accuracy and completeness.
+- Used Apache Airflow, DBeaver, GitHub, and Azure DevOps to schedule, monitor, and maintain data workflows.
+
+### Qdexi Global Solution LLC
+**Junior Developer** · Jan 2023 – Aug 2023
+
+- Built **Power BI dashboards** using marketing, Salesforce, and operational data for 10+ clients to analyze business performance, revenue trends, and customer activity.
+- Automated data preparation and transformation workflows using **Python and Alteryx**, improving reporting consistency and refresh reliability.
+- Developed ETL transformations and monitoring views using cloud data platforms to support reliable analytics reporting.
+
+### SR Transport Management Services
+**Software Developer Intern** · May 2022 – Nov 2022
+
+- Analyzed **GPS and telemetry data for 120+ vehicles** to track fleet activity, route efficiency, and logistics KPIs.
+- Integrated operational data into ETL workflows and supported data validation, requirements discussions, QA, and reporting.
+- Improved SQL query performance through indexing and schema refinement, supporting faster operational reporting.
+
+### SR Transport Management Services
+**Software Engineer Intern** · Jul 2021 – Oct 2021
+
+- Processed logistics and operational data using **SQL and Excel** to support daily fleet performance reporting.
+- Built data-processing workflows and reporting tools while supporting QA, documentation, deployment, validation, and reconciliation activities.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📱 Find My Provider (Healthcare Directory App)
-- Scalable **React Native app** integrating CMS NPI API  
-- Implemented **search filters**, optimized state management & load balancing for concurrency  
+### 💰 Financial Market Data Engineering Platform
+**In Progress**
 
-### ☁️ AWS Image & Text Recognition Pipeline
-- Built **serverless pipeline** for car detection & OCR with AWS Lambda, S3, and Glue  
-- Applied **event-driven architecture** with fault-tolerance and auto-scaling  
+Building an end-to-end data engineering platform for ingesting, validating, transforming, and analyzing financial market data.
 
-### 🐦 Twitter US Airline Sentiment Analysis
-- Applied **NLP techniques** to classify customer tweets into sentiment categories  
-- Used **Python (NLTK, Scikit-learn, Pandas)** with data visualization in Matplotlib  
-
-### 🍷 Wine Quality Prediction with AWS & Docker
-- Deployed an **ML model** to predict wine quality based on chemical composition  
-- Packaged the solution with **Docker** and hosted using **AWS EC2 + Flask API**  
-
-### 🏢 Organization Projects (Non-public)
-- **Payroll Power App:** Designed Power Apps + SharePoint workflows for payroll approvals and compliance tracking  
-- **Goal Tracking Dashboard:** Automated ETL + Power BI dashboards to monitor KPIs across facilities maintenance  
-- **Training Data Notification System:** Automated PDF data extraction + email notifications for expired certifications  
-- **E-commerce Analytics Dashboard:** Built an interactive dashboard for an e-commerce client to track sales, customer behavior, and marketing KPIs, improving decision-making with real-time insights  
-- **Live Fleet Tracking System:** Developed a GPS + web-based dashboard solution to monitor fleet movement, driver performance, and delivery status in real time  
+**Python · SQL · PostgreSQL · Apache Airflow · Docker · Cloud**
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=lakshaymunjal&show_icons=true&theme=tokyonight" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaymunjal&layout=compact&theme=tokyonight" />
-</p>
+### 🏦 Banking Transactions & Revenue Analytics
+**In Progress**
+
+Building an end-to-end financial analytics pipeline using large-scale synthetic payment transaction data to analyze transaction performance, approval rates, revenue trends, and data quality.
+
+**Python · SQL · PostgreSQL/Snowflake · Data Quality · Reconciliation · Power BI**
 
 ---
 
-## 🌐 Connect with Me
-<p align="left">
- <a href="https://www.linkedin.com/in/lakshaymunjaldev">
-   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
- </a>
- <a href="mailto:lakshaymunjaldev@gmail.com">
-   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
- </a>
-</p>
+### 🚇 Green Line Operations Intelligence
+
+End-to-end transit operations analytics platform built using official MBTA GTFS data to analyze service performance, headways, schedule adherence, and operational KPIs.
+
+**Python · SQL · Tableau · GTFS · APIs**
+
+[View Project →](https://github.com/LakshayMunjal-dev/green-line-operations-intelligence)
 
 ---
 
-⭐️ *Always open to collaborations in AI, data engineering, and cloud systems. Let’s connect!*  
+### 🚕 NYC Taxi Trip Analytics
+
+Analyzed **2M+ NYC Yellow Taxi trip records** using SQL to identify demand patterns, revenue trends, high-traffic zones, and transportation behavior.
+
+Built a **Power BI dashboard** covering hourly ridership, revenue by zone, distance trends, and payment distributions.
+
+**SQL · Power BI · Data Analysis**
+
+[View Project →](https://github.com/LakshayMunjal-dev/nyc-taxi-trip-analytics)
+
+---
+
+## 🎓 Education
+
+**New Jersey Institute of Technology**  
+Master of Science in Computer Science · 2025
+
+**Guru Gobind Singh Indraprastha University**  
+Bachelor of Technology in Information Technology · 2023
+
+---
+
+## 🎯 What I Work On
+
+- **Data Engineering** — ETL/ELT pipelines, data integration, data quality, and workflow automation
+- **Business Intelligence** — Power BI and Tableau dashboards for operational and financial reporting
+- **Financial Analytics** — Transaction, revenue, funding, variance, and performance analysis
+- **Data Analytics** — Python and SQL-based analysis of large operational and business datasets
+- **Cloud Data Platforms** — Azure, AWS, Snowflake, Oracle, and modern data workflows
+
+---
+
+## 🔗 Connect
+
+[LinkedIn](https://www.linkedin.com/in/lakshaymunjaldev/) · [Portfolio](https://www.lakshaymunjal.me/) · [GitHub](https://github.com/LakshayMunjal-dev)
