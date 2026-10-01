@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/github-data-engineer-banner.gif" alt="Data Engineering and Business Intelligence pipeline" width="100%">
+</p>
+
 # Hi, I'm Lakshay Munjal 👋
 
 **Data Engineer | Data Analyst | Business Intelligence**
